@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/diploma_web_deploy/static/css/main.372ef09c.chunk.css",
+    "main.js": "/diploma_web_deploy/static/js/main.69cdabd3.chunk.js",
+    "main.js.map": "/diploma_web_deploy/static/js/main.69cdabd3.chunk.js.map",
+    "runtime-main.js": "/diploma_web_deploy/static/js/runtime-main.aec1d718.js",
+    "runtime-main.js.map": "/diploma_web_deploy/static/js/runtime-main.aec1d718.js.map",
+    "static/js/2.ed1470e5.chunk.js": "/diploma_web_deploy/static/js/2.ed1470e5.chunk.js",
+    "static/js/2.ed1470e5.chunk.js.map": "/diploma_web_deploy/static/js/2.ed1470e5.chunk.js.map",
+    "static/js/3.9a08263b.chunk.js": "/diploma_web_deploy/static/js/3.9a08263b.chunk.js",
+    "static/js/3.9a08263b.chunk.js.map": "/diploma_web_deploy/static/js/3.9a08263b.chunk.js.map",
+    "index.html": "/diploma_web_deploy/index.html",
+    "static/css/main.372ef09c.chunk.css.map": "/diploma_web_deploy/static/css/main.372ef09c.chunk.css.map",
+    "static/js/2.ed1470e5.chunk.js.LICENSE.txt": "/diploma_web_deploy/static/js/2.ed1470e5.chunk.js.LICENSE.txt",
+    "static/media/acceptedOrder.a6ed5d80.svg": "/diploma_web_deploy/static/media/acceptedOrder.a6ed5d80.svg",
+    "static/media/dateIcon.048c9ded.svg": "/diploma_web_deploy/static/media/dateIcon.048c9ded.svg",
+    "static/media/declinedOrder.f105bdbc.svg": "/diploma_web_deploy/static/media/declinedOrder.f105bdbc.svg",
+    "static/media/inbox.af950d21.svg": "/diploma_web_deploy/static/media/inbox.af950d21.svg",
+    "static/media/key.379ac11f.svg": "/diploma_web_deploy/static/media/key.379ac11f.svg",
+    "static/media/logo.3471f3ac.png": "/diploma_web_deploy/static/media/logo.3471f3ac.png",
+    "static/media/person.ec863c92.svg": "/diploma_web_deploy/static/media/person.ec863c92.svg",
+    "static/media/priceIcon.b5a4cb6d.svg": "/diploma_web_deploy/static/media/priceIcon.b5a4cb6d.svg",
+    "static/media/profile.a7d2065a.svg": "/diploma_web_deploy/static/media/profile.a7d2065a.svg",
+    "static/media/rating_star.3652d05a.svg": "/diploma_web_deploy/static/media/rating_star.3652d05a.svg",
+    "static/media/star.77df2bb1.svg": "/diploma_web_deploy/static/media/star.77df2bb1.svg",
+    "static/media/star_border.7af0dd70.svg": "/diploma_web_deploy/static/media/star_border.7af0dd70.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec1d718.js",
+    "static/js/2.ed1470e5.chunk.js",
+    "static/css/main.372ef09c.chunk.css",
+    "static/js/main.69cdabd3.chunk.js"
+  ]
+}
